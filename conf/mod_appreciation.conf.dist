@@ -8,7 +8,7 @@
 # Default: 1 (enabled)
 #
 
-Appreciation.RequireCertificate.Enabled = 1
+Appreciation.RequireCertificate.Enabled = 0
 
 #################################
 
@@ -31,7 +31,7 @@ Appreciation.LevelBoost.Enabled = 1
 # Default: 60
 #
 
-Appreciation.LevelBoost.TargetLevel = 60
+Appreciation.LevelBoost.TargetLevel = 80
 
 #################################
 
@@ -43,7 +43,7 @@ Appreciation.LevelBoost.TargetLevel = 60
 # Default: 2500000 (250 gold)
 #
 
-Appreciation.LevelBoost.IncludedCopper = 2500000
+Appreciation.LevelBoost.IncludedCopper = 25000000
 
 #################################
 
@@ -98,7 +98,7 @@ Appreciation.UnlockContinents.Outland.Enabled = 1
 # Default: 0 (disabled)
 #
 
-Appreciation.UnlockContinents.Northrend.Enabled = 0
+Appreciation.UnlockContinents.Northrend.Enabled = 1
 
 #################################
 
